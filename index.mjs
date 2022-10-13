@@ -6,6 +6,7 @@ const PORT = 3000
 
 app.get("/", (req,res) => {
     const message = `Hello World, from ${os.hostname()}`
+    res.send(message)
 })
 
 app.listen(PORT, () => {
