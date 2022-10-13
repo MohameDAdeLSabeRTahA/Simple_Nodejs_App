@@ -4,7 +4,7 @@
   "description": "- This is a Simple Nodejs application that prints the host's name. - This app is dockerized and pushed to my docker hub account for test purposes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.mjs"
   },
   "repository": {
     "type": "git",
