@@ -1,0 +1,2 @@
+- This is a Simple Nodejs application that prints the host's name.
+- This app is dockerized and pushed to my docker hub account for test purposes.
